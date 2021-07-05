@@ -1,0 +1,116 @@
+Lectin
+ConA Sigma
+GNA Sigma
+AIA GlycoMatrix
+PHA-E Vector
+AIA Vector
+LcH Vector
+SNA Vector
+WGA Vector
+PNA Vector
+AAL Vector
+PSA Vector
+PSA GlycoMatrix
+UEA-I Vector
+LEL Vector
+MPL Vector
+BPL Vector
+MAA-I Vector
+STL Vector
+WFA Vector
+DBA Vector
+SBA Vector
+HHL Vector
+DSA Vector
+ECA Vector
+GSL-II Vector
+LTL Lotus Vector
+GNA Vector
+NPL Vector
+MAA-II Vector
+VVA Vector
+UEA Sigma
+PHA-L Sigma
+MAA Sigma
+SNA Sigma
+MNA-M EY
+SNA-I EY
+SNA-II EY
+PHA-E EY
+CA EY
+MNA-G EY
+UEA-II EY
+CSA EY
+UDA EY
+LcH EY
+TL EY
+ACA EY
+Blackbean EY
+PHA-L EY
+UEA-I EY
+LTL Lotus EY
+MAA EY
+PTA GalNAc EY
+AMA EY
+PTA Gal EY
+ASA EY
+HPA Sigma
+TJA-II Aniara
+diCBM40 
+AOL TCI America
+Griffithsin 
+SLBR-N 
+SLBR-H 
+SLBR-B 
+BamBL 
+BanLec H84T 
+Protein A 
+Protein G 
+Protein L 
+Anti Lewis A Abcam
+Anti Lewis X 
+Anti Lewis Y 
+Anti Lewis B Sigma
+Anti Sialyl Lewis X 
+Anti H1 
+Anti H2 
+Anti IgM Thermo Fisher
+Anti IgM Abcam
+Anti MBL 
+Anti Galectin 1 
+Anti Galectin 3 
+Anti Galectin 9 
+Anti NEU1 
+Anti NEU3 
+Anti PolySia 
+Anti Ficolin-1 
+Anti Ficolin-2 
+Anti Ficolin-3 
+Anti MASP-2 
+Anti MASP-1 
+Anti D-dimer 
+Anti P-selectin 
+Anti E-selectin 
+Anti L-selectin 
+Anti PSGL-1 
+Anti ICAM-1 
+Anti VCAM-1 
+Anti ST6GAL1 
+Anti CL-L1 (CL-10) 
+Anti CL-K1 (CL-11) 
+Anti VE cadherin 
+Anti Lewis A Thermo Fisher
+Anti Lewis B Abcam
+Anti IL-1a 
+Anti TGF-b 
+Anti TNF-a 
+Anti IFN-g 
+Anti Mac-2bp (LGALS3BP) 
+Anti VWF 
+Anti B.G.A Abcam
+Anti B.G.A Thermo Fisher
+Anti B.G.B Abcam
+Anti B.G.B Thermo Fisher
+Anti CD63 Thermo Fisher
+Cholera Toxin B Sigma
+RCA120 Vector
