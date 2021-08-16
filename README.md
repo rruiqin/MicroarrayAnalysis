@@ -6,6 +6,10 @@ This program is initially designed for lectin microarray analysis (dual color an
 
 This program is integrated with a GUI (tkinter).
 
+User can initiate the program by running the python file (.py) in an IDE on a machine with python 3.6 or above installed. 
+
+For users who do not wish to install python or IDE, a convenient, user-friendly version (for 64 bit windows only) is also provided (Microarray Analysis_verMar2021_win64.zip). See part III for instructions.
+
 
 **I. Description of the data analysis workflow**
 
@@ -85,13 +89,15 @@ This program is integrated with a GUI (tkinter).
 
 
 
-**III. USAGE**
+**III. USER INSTRUCTION **
 
-  (Required packages: tkinter, numpy, pandas)
+  *If user is running the .py file (Lectin array data analysis with GUI - 2021Mar05.py) in an IDE
+  
+  1. Make sure required packages are installed: tkinter, numpy, pandas
+  
+  2. Run the script. A user interface should appear on the screen.
 
-  1. Run the program.
-
-  2. Select input files, options and enter parameters using the user interface.
+  3. Select input files, options and enter parameters using the user interface.
 
   •	Number of replicates of lectins per array must be a positive integer
 
@@ -101,5 +107,31 @@ This program is integrated with a GUI (tkinter).
 
   •	Percentage sample cut-off must be a real number between 0 and 1
 
-  3. Run analysis. Users will be notified of the analysis result (finished/error).
+  4. Run analysis. Users will be notified of the analysis result (finished/error).
+   
+  
+  *If user is using the user-friendly version (Microarray Analysis_verMar2021_win64.zip)
+  
+  1. Unzip the file.
+  
+  2. In the unzipped folder, find "Run analysis.bat" and open this file.
+  
+  3. If a user interface appears on the screen, select input files, options and enter parameters:
+
+  •	Number of replicates of lectins per array must be a positive integer
+
+  •	Grubbs’ test cut-off must be a positive real number
+
+  •	SNR cut-offs must be positive real numbers
+
+  •	Percentage sample cut-off must be a real number between 0 and 1
+
+  4. Run analysis. Users will be notified of the analysis result (finished/error).
+
+  Note: 
+  
+  •	Do not change the content or the file names of the content of the folder.
+
+  •	This only works on win64 platform.
+  
 
